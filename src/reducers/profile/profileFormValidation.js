@@ -27,4 +27,3 @@ export default function formValidation (state) {
     return state.setIn(['form', 'isValid'], false)
   }
 }
-
